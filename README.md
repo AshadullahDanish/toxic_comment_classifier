@@ -52,6 +52,6 @@ Feel free to explore and contribute to this project!
 
 3. Contribute to the project and share your insights!
 
-Thank you for checking out the Toxic Comment Classifier project. For any questions or feedback, please contact [your email].
+Thank you for checking out the Toxic Comment Classifier project. For any questions or feedback, please contact cloud.data.danish@gmail.com .
 
 **Happy coding!** 🚀👩‍💻
