@@ -16,7 +16,7 @@ The goal is to develop a robust machine learning model that can automatically cl
 
 3. **Feature Engineering:** Extracting relevant features from the text data, enhancing the model's ability to understand and classify toxic comments.
 
-4. **Model Building:** Utilizing two different deep learning models, including traditional LSTM and a hybrid LSTM-CNN model. Leveraging fastText's pre-trained word embeddings for transfer learning.
+4. **Model Building:** Utilizing two different deep learning models, including traditional LSTM and a hybrid LSTM-RNN model. Leveraging fastText's pre-trained word embeddings for transfer learning.
 
 5. **Model Evaluation:** Evaluating the performance of the models during the training phase and comparing the results obtained from the competition website.
 
@@ -26,11 +26,10 @@ The project concludes that the traditional LSTM model outperforms the hybrid LST
 
 ## Key Learnings 🧠🚀
 
-- Working with different deep learning models: CNN, LSTM, and LSTM-CNN hybrid model.
+- Working with different deep learning models: RNN, LSTM, and LSTM-RNN hybrid model.
 - Implementing models on a Natural Language Processing use-case.
 - Efficient methods for cleaning textual data.
 - Understanding word embedding concepts and the advantages of pre-trained word embeddings.
-- Discovery of the "Talos" library for seamless hyper-parameter tuning.
 
 ## Next Steps 🚀🔧
 
