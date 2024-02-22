@@ -22,7 +22,7 @@ The goal is to develop a robust machine learning model that can automatically cl
 
 ## Conclusion 🏁📊
 
-The project concludes that the traditional LSTM model outperforms the hybrid LSTM-CNN model for the Toxic Comment Classification use-case. The next steps involve deploying the LSTM model as the backend for a web application that assesses the toxicity of user-provided comments.
+The project concludes that the traditional LSTM model outperforms the hybrid LSTM-RNN model for the Toxic Comment Classification use-case. The next steps involve deploying the LSTM model as the backend for a web application that assesses the toxicity of user-provided comments.
 
 ## Key Learnings 🧠🚀
 
